@@ -32,5 +32,4 @@
 
 ## 📫 Contact
 
-- 📧 numairkhan582@gmail.com  
 - 💼 [LinkedIn — Numair Iqbal](https://linkedin.com/in/numair-iqbal)
