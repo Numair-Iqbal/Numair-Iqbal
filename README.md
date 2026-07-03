@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numair Iqbal</h1>
-<h3 align="center">Backend & AI Engineering Intern | Data Analytics Learner | Java, Python & Android Developer | BS CS @ University of Layyah</h3>
+<h3 align="center">Backend & AI Engineering Intern | Data Analytics | Java, Python & Android Developer | BS CS @ University of Layyah</h3>
 
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
