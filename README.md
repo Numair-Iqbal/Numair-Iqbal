@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Numair Iqbal</h1>
 <h3 align="center">Backend & AI Engineering Intern | Data Analytics | Java, Python & Android Developer | BS CS @ University of Layyah</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Numair%20Iqbal&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20%26%20AI%20Engineering%20Intern&descAlignY=65&descSize=18" alt="banner" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineering+Intern;Python+%7C+Java+%7C+Android+Developer;Learning+Google+Data+Analytics;Building+Real-World+Projects" alt="Typing SVG" />
@@ -23,17 +21,13 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/numair-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="numair-iqbal" height="30" width="40" /></a>
-<a href="mailto:numairiqbal361@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" /></a>
-</p>
+
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Numair-Iqbal&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Numair-Iqbal&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Numair-Iqbal&theme=tokyonight" alt="streak stats"/>
