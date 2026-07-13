@@ -72,7 +72,7 @@
 
 ### 🏅 Certifications
 
-- 🤖 Google AI Professional Certificate — Coursera | 7 Courses | Jul 2026 | Verify
+- 🏅 **Google AI Professional Certificate** — Coursera | 7 Courses | Jul 2026 | [Verify](https://coursera.org/verify/professional-cert/UNP836B6I5UI)
 - 🎖️ **Programming for Everybody** — University of Michigan | Coursera | Grade: 97.52% | [Verify](https://www.coursera.org/account/accomplishments/verify/CSZ3WQ7JV95N)
 - 📊 **Google Data Analytics Professional Certificate** — Coursera *(In Progress)*
 - 🏅 **Data Fundamentals** — IBM SkillsBuild | Jun 2026 | [Verify](https://www.credly.com/badges/f9d0a266-4e9f-406b-904e-ba3c9c85d9f4)
