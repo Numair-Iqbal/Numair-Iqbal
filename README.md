@@ -97,4 +97,4 @@
 ### 📫 Contact
 
 - 💼 [LinkedIn — Numair Iqbal](https://linkedin.com/in/numair-iqbal)
-- 📧 [numairkhan582@gmail.com](mailto:numairkhan582@gmail.com)
+- 📧 numairkhan582@gmail.com
