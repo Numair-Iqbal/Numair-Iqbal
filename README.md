@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Numair Iqbal</h1>
-<h3 align="center">Backend & AI Engineering Intern | Data Analytics | Java, Python & Android Developer | BS CS @ University of Layyah</h3>
+<h1 align="center">👋 Welcome to my profile!</h1>
+
+<p align="center">
+  <img src="https://gitskins.com/api/section/hero?username=Numair-Iqbal&theme=satan" alt="Numair Iqbal hero section" />
+</p>
 
 
 
