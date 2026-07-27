@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineering+Intern;Python+%7C+Java+%7C+Android+Developer;Learning+Google+Data+Analytics;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Numair-Iqbal/Numair-Iqbal/main/numair-readme-card.svg" width="300" alt="Numair Iqbal ID Card">
+</p>
+
 ### 👋 Hi there, I'm Numair Iqbal
 
 <img align="right" height="230" src="https://raw.githubusercontent.com/Numair-Iqbal/Numair-Iqbal/main/assets/banner.png" style="border-radius: 10px;" />
