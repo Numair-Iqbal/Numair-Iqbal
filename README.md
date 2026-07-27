@@ -16,17 +16,20 @@
   <img src="https://raw.githubusercontent.com/Numair-Iqbal/Numair-Iqbal/main/numair-readme-card.svg" width="300" alt="Numair Iqbal ID Card">
 </p>
 
-### 👋 Hi there, I'm Numair Iqbal
 
-<img align="right" height="230" src="https://raw.githubusercontent.com/Numair-Iqbal/Numair-Iqbal/main/assets/banner.png" style="border-radius: 10px;" />
+
+### 🙋‍♂️ About Me
+
+<img align="right" height="230" src="https://raw.githubusercontent.com/Numair-Iqbal/Numair-Iqbal/main/assets/banner.png" style="border-radius: 15px;" />
 
 - 🎓 BS Computer Science — University of Layyah *(6th Semester Completed)*
 - 💼 Backend AI Engineering Intern @ **FlyRank AI**
 - 📍 Layyah, Punjab, Pakistan
-- 🔭 Focused on **Backend Development, Python & AI**
+- 🛠️ Focused on **Backend Development, Python & AI**
 - 🌱 Currently learning **Google Data Analytics**
 - 💬 Ask me about **Python, Java, PHP, MySQL, Android Development**
-- 📫 Reach me at **[LinkedIn](https://linkedin.com/in/numair-iqbal)**
+
+<br>
 
 <p align="left">
 <a href="https://linkedin.com/in/numair-iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="numair-iqbal" height="30" width="40" /></a>
