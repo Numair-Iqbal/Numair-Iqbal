@@ -1,5 +1,7 @@
-<h1 align="center">👋 Welcome to my profile!</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Numair-Iqbal/Numair-Iqbal/main/assets/welcome-banner.png" width="100%" alt="Welcome Banner">
+</p>
+<br><br>
 <p align="center">
   <img src="https://gitskins.com/api/section/hero?username=Numair-Iqbal&theme=satan" alt="Numair Iqbal hero section" />
 </p>
