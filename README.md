@@ -90,7 +90,7 @@
 - 📊 **Google Data Analytics Professional Certificate** — Coursera *(In Progress)*
 - 🏅 **Data Fundamentals** — IBM SkillsBuild | Jun 2026 | [Verify](https://www.credly.com/badges/f9d0a266-4e9f-406b-904e-ba3c9c85d9f4)
 - 🏅 **Deloitte Australia** — Data Analytics Job Simulation — Forage | Jun 2026 | [Verify](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy/completed)
-
+- 🎖️ **Microsoft Azure Essentials Professional Certificate** — Microsoft | LinkedIn Learning | Jul 2026 | [Verify](https://www.linkedin.com/learning/certificates/4695ee5839f7c789f34928b57592a4866b3a53fc437c1d784393a731d1522297)
 ---
 
 ### 🐍 Contribution Snake
