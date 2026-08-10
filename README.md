@@ -65,27 +65,17 @@
 
 ### 🚀 Projects
 
--**RozgarFind:** Android job-marketplace app concept for Pakistan's local employment market. 
--**User Record System:** Full-stack web application with complete CRUD functionality; PHP backend with MySQL database integration 
-and responsive HTML/CSS frontend. 
--**Medical AI Assistant** — MedBot: An AI-powered medical chatbot that answers health and medical questions only; built with 
-Python, Flask, and Groq AI, featuring a professional ChatGPT-style interface. 
--**Embeddable Widget Platform:** Multi-tenant backend platform (Node.js, Express, PostgreSQL) for embeddable widgets with real
-time submission capture, geo-enrichment, spam/rate-limiting, and a secure owner dashboard; FlyRank AI Backend Engineering 
-Internship capstone, covered by 41 automated tests. 
--**Numair Portfolio (AI Agent):** Personal portfolio website with an embedded AI chat agent (Groq API, serverless function) 
-showcasing projects and skills; FlyRank AI Fluency track capstone. 
--**Superstore Sales Analytics:** Excel, SQL, Python, and Power BI dashboard analyzing $2.26M in retail sales; delivered a validated 
-interactive dashboard and a written case-study report with business recommendations. 
+- **RozgarFind** — Android job-marketplace app concept for Pakistan's local employment market.
 
-<p align="center">
-  <a href="https://github.com/Numair-Iqbal/RozgarFind">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Numair-Iqbal&repo=RozgarFind&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Numair-Iqbal/Artificial-Intelligence">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Numair-Iqbal&repo=Artificial-Intelligence&theme=tokyonight" />
-  </a>
-</p>
+- **User Record System** — Full-stack web application with complete CRUD functionality; PHP backend with MySQL database integration and a responsive HTML/CSS frontend.
+
+- **MedBot (Medical AI Assistant)** — AI-powered medical chatbot that answers health and medical questions only; built with Python, Flask, and Groq AI, featuring a professional ChatGPT-style interface.
+
+- **Embeddable Widget Platform** — Multi-tenant backend platform (Node.js, Express, PostgreSQL) for embeddable widgets with real-time submission capture, geo-enrichment, spam/rate-limiting, and a secure owner dashboard. FlyRank AI Backend Engineering Internship capstone — covered by 41 automated tests.
+
+- **Numair Portfolio (AI Agent)** — Personal portfolio website with an embedded AI chat agent (Groq API, serverless function) showcasing projects and skills. FlyRank AI Fluency track capstone.
+
+- **Superstore Sales Analytics** — Excel, SQL, Python, and Power BI dashboard analyzing $2.26M in retail sales; delivered a validated interactive dashboard and a written case-study report with business recommendations.
 
 ---
 
