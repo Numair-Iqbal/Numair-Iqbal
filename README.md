@@ -65,11 +65,18 @@
 
 ### 🚀 Projects
 
-- **RozgarFind** — Android job-marketplace app for Pakistan's local employment market
-- **User Record System** — Full-stack web app with PHP backend, MySQL database & HTML/CSS frontend
-- **MedBot** — Android health-assistant app for basic medical guidance
-- **Flashcard Quiz App** — Active-recall learning app with custom decks & scoring logic
-- **Fitness Tracker App** — Workout & fitness-metric logging app
+-**RozgarFind:** Android job-marketplace app concept for Pakistan's local employment market. 
+-**User Record System:** Full-stack web application with complete CRUD functionality; PHP backend with MySQL database integration 
+and responsive HTML/CSS frontend. 
+-**Medical AI Assistant** — MedBot: An AI-powered medical chatbot that answers health and medical questions only; built with 
+Python, Flask, and Groq AI, featuring a professional ChatGPT-style interface. 
+-**Embeddable Widget Platform:** Multi-tenant backend platform (Node.js, Express, PostgreSQL) for embeddable widgets with real
+time submission capture, geo-enrichment, spam/rate-limiting, and a secure owner dashboard; FlyRank AI Backend Engineering 
+Internship capstone, covered by 41 automated tests. 
+-**Numair Portfolio (AI Agent):** Personal portfolio website with an embedded AI chat agent (Groq API, serverless function) 
+showcasing projects and skills; FlyRank AI Fluency track capstone. 
+-**Superstore Sales Analytics:** Excel, SQL, Python, and Power BI dashboard analyzing $2.26M in retail sales; delivered a validated 
+interactive dashboard and a written case-study report with business recommendations. 
 
 <p align="center">
   <a href="https://github.com/Numair-Iqbal/RozgarFind">
