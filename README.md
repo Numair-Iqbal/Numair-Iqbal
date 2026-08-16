@@ -84,7 +84,7 @@
 - 🏅 **Google AI Professional Certificate** — Coursera | 7 Courses | Jul 2026 | [Verify](https://coursera.org/verify/professional-cert/UNP836B6I5UI)
 - 🏅 **Google AI Essentials** — Coursera | 5 Courses | Jul 2026 | [Verify](https://coursera.org/verify/specialization/0PG535RTR2BT)
 - 🎖️ **Programming for Everybody** — University of Michigan | Coursera | Grade: 97.52% | [Verify](https://www.coursera.org/account/accomplishments/verify/CSZ3WQ7JV95N)
-- 📊 **Google Data Analytics Professional Certificate** — Coursera *(In Progress)*
+- 🏆 **Google Data Analytics Professional Certificate** — Coursera | 9 Courses | Aug 2026 | [Verify](https://coursera.org/verify/professional-cert/YVJP2F01TE4A)
 - 🏅 **Data Fundamentals** — IBM SkillsBuild | Jun 2026 | [Verify](https://www.credly.com/badges/f9d0a266-4e9f-406b-904e-ba3c9c85d9f4)
 - 🏅 **Deloitte Australia** — Data Analytics Job Simulation — Forage | Jun 2026 | [Verify](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy/completed)
 - 🎖️ **Microsoft Azure Essentials Professional Certificate** — Microsoft | LinkedIn Learning | Jul 2026 | [Verify](https://www.linkedin.com/learning/certificates/4695ee5839f7c789f34928b57592a4866b3a53fc437c1d784393a731d1522297)
