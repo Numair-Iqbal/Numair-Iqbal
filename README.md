@@ -80,6 +80,11 @@
 ---
 
 ### 🏅 Certifications
+- **[Backend AI Engineering](https://internship.flyrank.ai/verify)** — FlyRank AI, Aug 2026  
+  Credential ID: `FR-D11-E996C-AA6A0`
+
+- **[AI Fluency](https://internship.flyrank.ai/verify)** — FlyRank AI, Aug 2026  
+  Credential ID: `FR-D11-ADCEB-A5F9D`
 
 - 🏅 **Google AI Professional Certificate** — Coursera | 7 Courses | Jul 2026 | [Verify](https://coursera.org/verify/professional-cert/UNP836B6I5UI)
 - 🏅 **Google AI Essentials** — Coursera | 5 Courses | Jul 2026 | [Verify](https://coursera.org/verify/specialization/0PG535RTR2BT)
